@@ -1,0 +1,749 @@
+[
+    {
+      "id": "6519ae09b0c2eb6a0ca28f4e",
+      "img":"https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2144&q=80",
+      "title":"RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+      "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
+      "price":"7,255",
+      "location":"8558 Pecan St.",
+      "cityName":"London",
+      "room":"3",
+      "bed":"4",
+      "bath":"1",
+      "sft":"732",
+      "imageGallery":[
+          "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2144&q=80",
+          "https://cdn.pixabay.com/photo/2013/01/17/23/05/chicago-75293_1280.jpg",
+          "https://cdn.pixabay.com/photo/2014/11/04/00/11/chicago-516110_1280.jpg",
+          "https://cdn.pixabay.com/photo/2016/08/29/10/26/chicago-1627827_1280.jpg",
+          "https://cdn.pixabay.com/photo/2019/06/25/04/58/willis-tower-4297404_1280.jpg",
+          "https://cdn.pixabay.com/photo/2013/06/14/20/10/chicago-skyline-139388_1280.jpg"
+      ]
+    },
+    {
+      "id": "6519ae09a0b63f9742d94e77",
+      "img":"https://cdn.pixabay.com/photo/2014/12/10/06/46/venetian-562759_1280.jpg",
+      "title":"Regal North Hills -4150 Main at North Hills St, Releigh",
+      "description":"Regal North Hills is a prominent cinema located at 4150 Main at North Hills Street in Raleigh, North Carolina. This upscale movie theater is part of the bustling North Hills district, known for its vibrant atmosphere and diverse entertainment options. Regal North Hills offers a premium cinematic experience for moviegoers in the area. The exterior of the theater is inviting and modern, with sleek architectural design and well-maintained surroundings. As you enter, you'll be greeted by a spacious and welcoming lobby, adorned with movie posters and comfortable seating areas. The atmosphere is designed to create anticipation and excitement for your movie-going experience. Inside the theater, you'll find a range of screening options, including standard screens and, potentially, IMAX or VIP screens, depending on the location's amenities. The seating arrangements are comfortable and offer excellent sightlines to the big screen, ensuring an immersive viewing experience.",
+      "price":"5,256",
+      "location":"3890 Poplar DR.",
+      "cityName":"London",
+      "room":"3",
+      "bed":"4",
+      "bath":"1",
+      "sft":"754",
+      "imageGallery":[
+        "https://cdn.pixabay.com/photo/2014/12/10/06/46/venetian-562759_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/06/09/09/30/swimming-pool-2386261_1280.jpg",
+        "https://cdn.pixabay.com/photo/2016/05/18/08/12/resort-1400082_1280.jpg",
+        "https://cdn.pixabay.com/photo/2016/05/16/06/17/pool-1395071_1280.jpg",
+        "https://cdn.pixabay.com/photo/2016/05/16/06/16/pool-1395069_1280.jpg"
+      ]
+    } ,
+    {
+      "id": "651a25271a3d420c8cc4559b",
+      "img": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271_1280.jpg",
+      "title": "Luxurious 4-Bedroom and 3-Bathroom Home in London",
+      "description": "This stunning 4-bedroom home in London offers luxury living at its finest. With spacious rooms, high-end finishes, and a beautiful garden, this property is a dream come true.",
+      "price": "1,2000",
+      "location": "123 Elm Street, London",
+      "cityName": "London",
+      "room": "4",
+      "bed": "4",
+      "bath": "3",
+      "sft": "2,500",
+      "imageGallery": [
+        "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271_1280.jpg",
+        "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80",
+        "https://images.unsplash.com/photo-1568092775154-7fa176a29c0f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+      ]
+    },
+    {
+      "id": "651a252726544c76ad9f5088",
+      "img": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Cozy 2BR Apartment in London",
+      "description": "A cozy 2-bedroom apartment with great amenities and city views.",
+      "price": "550,000",
+      "location": "456 Oak Street, London",
+      "cityName": "London",
+      "room": "2",
+      "bed": "2",
+      "bath": "1",
+      "sft": "1,200",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2075&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+      ]
+    },
+    {
+      "id": "651a25272ad24c4f2bbe7142",
+      "img": "https://images.unsplash.com/photo-1613977257363-707ba9348227?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Modern 3BR House near Park",
+      "description": "A modern 3-bedroom house with a spacious yard, close to the park.",
+      "price": "750,000",
+      "location": "789 Maple Lane, London",
+      "cityName": "London",
+      "room": "3",
+      "bed": "3",
+      "bath": "2",
+      "sft": "1,500",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+      ]
+    },
+    {
+      "id": "651a2527c7735e36bbc733b5",
+      "img": "https://images.unsplash.com/photo-1575517111478-7f6afd0973db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Charming 1BR Studio in London",
+      "description": "A charming 1-bedroom studio apartment in a prime location.",
+      "price": "350,000",
+      "location": "101 Pine Street, London",
+      "cityName": "London",
+      "room": "1",
+      "bed": "1",
+      "bath": "1",
+      "sft": "700",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1575517111478-7f6afd0973db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1575517112370-130b9e327b22?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://plus.unsplash.com/premium_photo-1661962769148-fbe587e60fb8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+      ]
+    },
+    {
+      "id": "651a252790c9ebce8506dd74",
+      "img": "https://images.unsplash.com/photo-1512915922686-57c11dde9b6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2073&q=80",
+      "title": "Spacious 4BR Family Home",
+      "description": "A spacious 4-bedroom family home with a large backyard and modern features.",
+      "price": "950,00",
+      "location": "222 Elm Avenue, London",
+      "cityName": "London",
+      "room": "4",
+      "bed": "4",
+      "bath": "3",
+      "sft": "2,200",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1512915922686-57c11dde9b6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2073&q=80",
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2075&q=80",
+        "https://images.unsplash.com/photo-1523217582562-09d0def993a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2080&q=80",
+        "https://images.unsplash.com/photo-1459767129954-1b1c1f9b9ace?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+      ]
+    },
+    {
+      "id": "651a25279aa38c123e9c538b",
+      "img": "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80",
+      "title": "Renovated 2BR Apartment",
+      "description": "A beautifully renovated 2-bedroom apartment with modern upgrades.",
+      "price": "600,00",
+      "location": "333 Oak Street, London",
+      "cityName": "London",
+      "room": "2",
+      "bed": "2",
+      "bath": "2",
+      "sft": "1,100",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+      ]
+    },
+    {
+      "id": "651a2527fd5e62461c68e011",
+      "img": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+      "title": "Downtown 1BR Condo",
+      "description": "A downtown 1-bedroom condo with a balcony and city skyline views.",
+      "price": "450,00",
+      "location": "555 Maple Avenue, London",
+      "cityName": "London",
+      "room": "1",
+      "bed": "1",
+      "bath": "1",
+      "sft": "800",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1596178065887-1198b6148b2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+      ]
+    },
+    {
+      "id": "651a25274c3405b216c114d7",
+      "img": "https://images.unsplash.com/photo-1602075432748-82d264e2b463?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Historic 3BR Townhouse",
+      "description": "A historic 3-bedroom townhouse with original features and charm.",
+      "price": "850,00",
+      "location": "777 Pine Road, London",
+      "cityName": "London",
+      "room": "3",
+      "bed": "3",
+      "bath": "2",
+      "sft": "1,900",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1602075432748-82d264e2b463?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1613553507747-5f8d62ad5904?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1613553497126-a44624272024?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+      ]
+    },
+    {
+      "id": "651a2527fcfb1da3217aa54f",
+      "img": "https://images.unsplash.com/photo-1594348352429-159508d48c57?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80",
+      "title": "Modern 2BR Loft",
+      "description": "A modern 2-bedroom loft-style apartment with an open floor plan.",
+      "price": "700,00",
+      "location": "444 Elm Street, London",
+      "cityName": "London",
+      "room": "2",
+      "bed": "2",
+      "bath": "2",
+      "sft": "1,300",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1594348352429-159508d48c57?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80",
+        "https://images.unsplash.com/photo-1594348352384-97fa22a08109?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80",
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1594348351748-5ce56416edc1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80"
+      ]
+    },
+    {
+      "id": "651a25276194c757d821ca09",
+      "img":"https://cdn.pixabay.com/photo/2020/05/04/13/30/outdoors-5129182_1280.jpg",
+      "title":"Lower Manhattan Skyline",
+      "description":"The Lower Manhattan skyline is a breathtaking sight to behold, characterized by a stunning juxtaposition of architectural styles and eras. At its heart stands the Financial District, a global financial hub that's home to the world-famous New York Stock Exchange (NYSE) and numerous banks and financial institutions. Here are some key features of the Lower Manhattan skyline. Perhaps the most iconic structure in Lower Manhattan, One World Trade Center, also known as the Freedom Tower, stands as a symbol of resilience and remembrance. It is the main building of the rebuilt World Trade Center complex and reaches a height of 1,776 feet (541 meters), making it the tallest building in the Western Hemisphere. Its sleek design and the One World Observatory at the top draw visitors from around the world.",
+      "price":"50,00",
+      "location":"10280, New York",
+      "cityName":"New York",
+      "room":"10",
+      "bed":"15",
+      "bath":"5",
+      "sft":"57,845",
+      "imageGallery":[
+        "https://cdn.pixabay.com/photo/2020/05/04/13/30/outdoors-5129182_1280.jpg",
+        "https://cdn.pixabay.com/photo/2015/03/11/12/31/buildings-668616_1280.jpg",
+        "https://images.pexels.com/photos/2360569/pexels-photo-2360569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.unsplash.com/photo-1618243539083-50d8840e122f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://cdn.pixabay.com/photo/2020/03/03/12/03/buildings-4898536_1280.jpg"
+      ]
+    },
+    {
+      "id": "651a25278f961f772a8f3705",
+      "img": "https://images.pexels.com/photos/7031607/pexels-photo-7031607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Modern 2BR Apartment",
+      "description": "A modern 2-bedroom apartment in the heart of New York City.",
+      "price": "900,00",
+      "location": "123 Broadway, New York",
+      "cityName": "New York",
+      "room": "2",
+      "bed": "2",
+      "bath": "2",
+      "sft": "1,200",
+      "imageGallery": [
+        "https://images.pexels.com/photos/7031607/pexels-photo-7031607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/4857772/pexels-photo-4857772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/6587823/pexels-photo-6587823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": "651a2527b4843dba09b1bab2",
+      "img": "https://images.pexels.com/photos/7031406/pexels-photo-7031406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Cozy 1BR Condo",
+      "description": "A cozy 1-bedroom condo with great city views and amenities.",
+      "price": "650,00",
+      "location": "456 Main Street, New York",
+      "cityName": "New York",
+      "room": "1",
+      "bed": "1",
+      "bath": "1",
+      "sft": "8,000",
+      "imageGallery": [
+        "https://images.pexels.com/photos/7031406/pexels-photo-7031406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7031407/pexels-photo-7031407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7031407/pexels-photo-7031407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7031412/pexels-photo-7031412.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": "651a2527a89ebe1db060ac1f",
+      "img": "https://images.pexels.com/photos/6343/village-hotel-building-countryside-6343.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Luxury 3BR Penthouse",
+      "description": "A luxurious 3-bedroom penthouse with rooftop terrace and skyline views.",
+      "price": "2,500",
+      "location": "789 Park Avenue, New York",
+      "cityName": "New York",
+      "room": "3",
+      "bed": "3",
+      "bath": "3",
+      "sft": "2,500",
+      "imageGallery": [
+        "https://images.pexels.com/photos/6343/village-hotel-building-countryside-6343.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/8082332/pexels-photo-8082332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://cdn.pixabay.com/photo/2017/08/27/10/16/interior-2685521_1280.jpg",
+        "https://cdn.pixabay.com/photo/2016/08/26/15/06/home-1622401_1280.jpg"
+      ]
+    },
+    {
+      "id": "651a252798b09e4e0e943d42",
+      "img": "https://images.pexels.com/photos/5524165/pexels-photo-5524165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Charming Studio in SoHo",
+      "description": "A charming studio apartment in the trendy SoHo neighborhood.",
+      "price": "450,000",
+      "location": "101 Mercer Street, New York",
+      "cityName": "New York",
+      "room": "1",
+      "bed": "0",
+      "bath": "1",
+      "sft": "6,000",
+      "imageGallery": [
+        "https://images.pexels.com/photos/5524165/pexels-photo-5524165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7147291/pexels-photo-7147291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7147370/pexels-photo-7147370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/6957083/pexels-photo-6957083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": "651a2527e7d6de2051377570",
+      "img": "https://images.pexels.com/photos/13041118/pexels-photo-13041118.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Spacious 4BR Brownstone",
+      "description": "A spacious 4-bedroom brownstone in a historic New York neighborhood.",
+      "price": "1,800,0",
+      "location": "222 Lexington Avenue, New York",
+      "cityName": "New York",
+      "room": "4",
+      "bed": "4",
+      "bath": "3",
+      "sft": "2,800",
+      "imageGallery": [
+        "https://images.pexels.com/photos/13041118/pexels-photo-13041118.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7147366/pexels-photo-7147366.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/6933768/pexels-photo-6933768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7534551/pexels-photo-7534551.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": "651a25270c98aba0b408fabc",
+      "img": "https://images.pexels.com/photos/3935320/pexels-photo-3935320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Downtown 2BR Loft",
+      "description": "A downtown 2-bedroom loft-style apartment with an industrial chic vibe.",
+      "price": "1,200,0",
+      "location": "333 Hudson Street, New York",
+      "cityName": "New York",
+      "room": "2",
+      "bed": "2",
+      "bath": "2",
+      "sft": "1,500",
+      "imageGallery": [
+        "https://images.pexels.com/photos/3935320/pexels-photo-3935320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://cdn.pixabay.com/photo/2017/07/09/03/19/home-2486092_1280.jpg",
+        "https://cdn.pixabay.com/photo/2016/09/19/17/20/home-1680800_1280.jpg",
+        "https://cdn.pixabay.com/photo/2019/08/19/13/58/bed-4416515_1280.jpg"
+      ]
+    },
+    {
+      "id": "651a252782fd4a0a67c42d4c",
+      "img": "https://images.unsplash.com/photo-1515263487990-61b07816b324?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Modern 1BR Apartment",
+      "description": "A modern 1-bedroom apartment with city views and contemporary design.",
+      "price": "750,00",
+      "location": "777 Park Place, New York",
+      "cityName": "New York",
+      "room": "1",
+      "bed": "1",
+      "bath": "1",
+      "sft": "9,000",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1515263487990-61b07816b324?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://cdn.pixabay.com/photo/2013/09/24/12/08/apartment-185779_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/02/07/18/16/living-room-2046668_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/08/07/16/39/living-room-2605530_1280.jpg"
+      ]
+    },
+    {
+      "id": "651a2527eebe3ec89266b58c",
+      "img": "https://images.unsplash.com/photo-1576941089067-2de3c901e126?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1956&q=80",
+      "title": "Cozy Studio in Greenwich Village",
+      "description": "A cozy studio apartment in the charming Greenwich Village neighborhood.",
+      "price": "550,00",
+      "location": "101 Waverly Place, New York",
+      "cityName": "New York",
+      "room": "1",
+      "bed": "0",
+      "bath": "1",
+      "sft": "6,000",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1576941089067-2de3c901e126?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1956&q=80",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/259962/pexels-photo-259962.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1669799/pexels-photo-1669799.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": "651a25274859976d44c803e1",
+      "img": "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "title": "Luxury 3BR Condo with River Views",
+      "description": "A luxurious 3-bedroom condo with panoramic river views and top-notch amenities.",
+      "price": "3,200,00",
+      "location": "444 Riverside Drive, New York",
+      "cityName": "New York",
+      "room": "3",
+      "bed": "3",
+      "bath": "3",
+      "sft": "2,200",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+        "https://cdn.pixabay.com/photo/2017/02/07/18/16/living-room-2046668_1280.jpg",
+        "https://cdn.pixabay.com/photo/2015/07/02/09/52/meeting-room-828547_1280.jpg",
+        "https://cdn.pixabay.com/photo/2021/10/06/15/05/bathroom-6686057_1280.jpg"
+      ]
+    },
+    {
+      "id": "651a2527bf980f4f6db7490d",
+      "img": "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2065&q=80",
+      "title": "Historic 2BR Brownstone",
+      "description": "A historic 2-bedroom brownstone with vintage charm and a beautiful garden.",
+      "price": "1,400,00",
+      "location": "222 Clinton Street, New York",
+      "cityName": "New York",
+      "room": "2",
+      "bed": "2",
+      "bath": "2",
+      "sft": "1,800",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2065&q=80",
+        "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2060&q=80",
+        "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://cdn.pixabay.com/photo/2020/12/16/00/10/home-5835289_1280.jpg"
+      ]
+    },
+    {
+      "id": "651a25f5e9930b45120a4104",
+      "img": "https://images.pexels.com/photos/18414267/pexels-photo-18414267/free-photo-of-yard-of-a-traditional-house-in-a-european-city.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Modern 2BR Apartment",
+      "description": "A modern 2-bedroom apartment in a prime location in Mumbai.",
+      "price": "1,200",
+      "location": "123 Palm Avenue, Mumbai",
+      "cityName": "Mumbai",
+      "room": "2",
+      "bed": "2",
+      "bath": "2",
+      "sft": "1,200",
+      "imageGallery": [
+        "https://images.pexels.com/photos/18414267/pexels-photo-18414267/free-photo-of-yard-of-a-traditional-house-in-a-european-city.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1560448205-4d9b3e6bb6db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+      ]
+    },
+    {
+      "id": "651a25f5b5a811d69bc6f02f",
+      "img": "https://images.unsplash.com/photo-1592595896616-c37162298647?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Spacious 3BR Condo",
+      "description": "A spacious 3-bedroom condo with breathtaking sea views in Mumbai.",
+      "price": "2,500",
+      "location": "456 Ocean Drive, Mumbai",
+      "cityName": "Mumbai",
+      "room": "3",
+      "bed": "3",
+      "bath": "3",
+      "sft": "2,000",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1592595896616-c37162298647?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.pexels.com/photos/4119832/pexels-photo-4119832.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "https://images.pexels.com/photos/7031714/pexels-photo-7031714.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7534551/pexels-photo-7534551.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": "651a25f50dacd2b5dfd5e0fc",
+      "img": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "title": "Luxury 4BR Villa",
+      "description": "A luxurious 4-bedroom villa with a private pool and garden oasis in Mumbai.",
+      "price": "4,000",
+      "location": "789 Royal Lane, Mumbai",
+      "cityName": "Mumbai",
+      "room": "4",
+      "bed": "4",
+      "bath": "4",
+      "sft": "3,500",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+        "https://images.pexels.com/photos/439227/pexels-photo-439227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/667838/pexels-photo-667838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1669799/pexels-photo-1669799.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": "651a25f52aaf6c5973b0f8ff",
+      "img": "https://images.unsplash.com/photo-1606402179428-a57976d71fa4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "title": "Charming Studio in Bandra",
+      "description": "A charming studio apartment in the vibrant Bandra neighborhood of Mumbai.",
+      "price": "6,000",
+      "location": "101 Hill Road, Mumbai",
+      "cityName": "Mumbai",
+      "room": "1",
+      "bed": "0",
+      "bath": "1",
+      "sft": "50,00",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1606402179428-a57976d71fa4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+        "https://images.pexels.com/photos/259580/pexels-photo-259580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1648776/pexels-photo-1648776.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/210265/pexels-photo-210265.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": "651a25f5b00bb3882f52a71d",
+      "img": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Sea View 2BR Apartment",
+      "description": "A 2-bedroom apartment with stunning sea views in South Mumbai.",
+      "price": "1,800",
+      "location": "222 Marine Drive, Mumbai",
+      "cityName": "Mumbai",
+      "room": "2",
+      "bed": "2",
+      "bath": "2",
+      "sft": "1,100",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://cdn.pixabay.com/photo/2014/08/11/21/40/bedroom-416062_1280.jpg",
+        "https://cdn.pixabay.com/photo/2016/08/26/15/06/home-1622401_1280.jpg",
+        "https://cdn.pixabay.com/photo/2020/01/20/10/33/room-4779953_1280.jpg"
+      ]
+    },
+    {
+      "id": "651a25f59dfb4c8667697e34",
+      "img": "https://plus.unsplash.com/premium_photo-1687960116741-d3a1468fdec1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Cozy 1BR Apartment",
+      "description": "A cozy 1-bedroom apartment with modern amenities in Mumbai.",
+      "price": "7,500",
+      "location": "333 Palm Street, Mumbai",
+      "cityName": "Mumbai",
+      "room": "1",
+      "bed": "1",
+      "bath": "1",
+      "sft": "7,000",
+      "imageGallery": [
+        "https://plus.unsplash.com/premium_photo-1687960116741-d3a1468fdec1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.pexels.com/photos/7147367/pexels-photo-7147367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7214461/pexels-photo-7214461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7147291/pexels-photo-7147291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": "651a25f5efe7be0b5db24396",
+      "img": "https://images.unsplash.com/photo-1430285561322-7808604715df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Modern 3BR Apartment",
+      "description": "A modern 3-bedroom apartment with city views and spacious interiors.",
+      "price": "1,800",
+      "location": "456 Skyline Avenue, Mumbai",
+      "cityName": "Mumbai",
+      "room": "3",
+      "bed": "3",
+      "bath": "2",
+      "sft": "1,800 ",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1430285561322-7808604715df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.pexels.com/photos/7511694/pexels-photo-7511694.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7511698/pexels-photo-7511698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/6587825/pexels-photo-6587825.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": "651a25f59f5a35c04e7400c7",
+      "img": "https://images.unsplash.com/photo-1492889971304-ac16ab4a4a5a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80",
+      "title": "Luxury 4BR Penthouse",
+      "description": "A luxurious 4-bedroom penthouse with panoramic city and sea views.",
+      "price": "4,500",
+      "location": "789 Skyscraper Road, Mumbai",
+      "cityName": "Mumbai",
+      "room": "4",
+      "bed": "4",
+      "bath": "4",
+      "sft": "3,200",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1492889971304-ac16ab4a4a5a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80",
+        "https://images.pexels.com/photos/6207822/pexels-photo-6207822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7061068/pexels-photo-7061068.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/6312357/pexels-photo-6312357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": "651a25f578cf88336c51e65e",
+      "img": "https://images.unsplash.com/photo-1605146768851-eda79da39897?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Charming Studio in Juhu",
+      "description": "A charming studio apartment in the popular Juhu area of Mumbai.",
+      "price": "5,500",
+      "location": "101 Beach Road, Mumbai",
+      "cityName": "Mumbai",
+      "room": "1",
+      "bed": "0",
+      "bath": "1",
+      "sft": "55,00",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1605146768851-eda79da39897?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.pexels.com/photos/6969782/pexels-photo-6969782.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7147284/pexels-photo-7147284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7005269/pexels-photo-7005269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": "651a25f52e2ab6a73c3f3dbf",
+      "img": "https://images.unsplash.com/photo-1590579906355-9ea60292515b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2078&q=80",
+      "title": "Charming 2BR Apartment",
+      "description": "A charming 2-bedroom apartment with a view of the Eiffel Tower in Paris.",
+      "price": "72,500",
+      "location": "123 Rue de la Tour, Paris",
+      "cityName": "Paris",
+      "room": "2",
+      "bed": "2",
+      "bath": "1",
+      "sft": "1,000",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1590579906355-9ea60292515b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2078&q=80",
+        "https://cdn.pixabay.com/photo/2017/03/28/12/17/chairs-2181994_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/03/28/12/16/chairs-2181980_1280.jpg",
+        "https://cdn.pixabay.com/photo/2018/01/26/08/15/dining-room-3108037_1280.jpg"
+      ]
+    },
+    {
+      "id": "651a25f566856547cd0d1359",
+      "img": "https://plus.unsplash.com/premium_photo-1661876993697-24bc7408a0a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80",
+      "title": "Luxury 3BR Penthouse",
+      "description": "A luxurious 3-bedroom penthouse with a rooftop terrace and city views in Paris.",
+      "price": "1,500,000",
+      "location": "456 Avenue des Champs-Élysées, Paris",
+      "cityName": "Paris",
+      "room": "3",
+      "bed": "3",
+      "bath": "2",
+      "sft": "2,200",
+      "imageGallery": [
+        "https://plus.unsplash.com/premium_photo-1661876993697-24bc7408a0a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80",
+        "https://cdn.pixabay.com/photo/2017/03/28/12/06/chairs-2181919_1280.jpg",
+        "https://cdn.pixabay.com/photo/2021/10/06/15/05/bathroom-6686057_1280.jpg",
+        "https://cdn.pixabay.com/photo/2018/04/22/13/04/hallway-3341001_1280.jpg"
+      ]
+    },
+    {
+      "id": "651a25f53e04790b4e28e54f",
+      "img": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Modern 1BR Studio",
+      "description": "A modern 1-bedroom studio apartment with contemporary design in Paris.",
+      "price": "50,000",
+      "location": "101 Rue du Louvre, Paris",
+      "cityName": "Paris",
+      "room": "1",
+      "bed": "1",
+      "bath": "1",
+      "sft": "6,000",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://cdn.pixabay.com/photo/2019/05/26/22/38/salon-4231458_1280.jpg",
+        "https://cdn.pixabay.com/photo/2018/06/14/21/15/bedroom-3475656_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/03/19/01/18/living-room-2155353_1280.jpg"
+      ]
+    },
+    {
+      "id": "651a25f55063bdb4c8ddb56b",
+      "img": "https://images.unsplash.com/photo-1582063289852-62e3ba2747f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Elegant 4BR Townhouse",
+      "description": "An elegant 4-bedroom townhouse with classic French architecture in Paris.",
+      "price": "2,200,000",
+      "location": "222 Avenue des Gobelins, Paris",
+      "cityName": "Paris",
+      "room": "4",
+      "bed": "4",
+      "bath": "3",
+      "sft": "2,800",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1582063289852-62e3ba2747f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://cdn.pixabay.com/photo/2017/01/14/12/48/hotel-1979406_1280.jpg",
+        "https://cdn.pixabay.com/photo/2018/07/31/20/08/interior-3575819_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/08/05/12/08/living-room-2583032_1280.jpg"
+      ]
+    },
+    {
+      "id": "651a25f5ac6ab71f34a5f015",
+      "img": "https://images.unsplash.com/photo-1605146769289-440113cc3d00?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Riverside 2BR Apartment",
+      "description": "A 2-bedroom apartment with scenic views along the Seine River in Paris.",
+      "price": "850,000",
+      "location": "333 Quai de la Tournelle, Paris",
+      "cityName": "Paris",
+      "room": "2",
+      "bed": "2",
+      "bath": "2",
+      "sft": "1,200",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1605146769289-440113cc3d00?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://cdn.pixabay.com/photo/2015/02/02/23/39/hall-621741_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/02/07/18/16/living-room-2046668_1280.jpg",
+        "https://cdn.pixabay.com/photo/2019/09/11/04/43/interior-design-4467768_1280.jpg"
+      ]
+    },
+    {
+      "id": "651a25f50b96c8507f46b88f",
+      "img": "https://images.unsplash.com/photo-1573065014858-76b7d1bd6d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1952&q=80",
+      "title": "Eiffel View 1BR Apartment",
+      "description": "A 1-bedroom apartment with a stunning view of the Eiffel Tower in Paris.",
+      "price": "950,000",
+      "location": "101 Quai Branly, Paris",
+      "cityName": "Paris",
+      "room": "1",
+      "bed": "1",
+      "bath": "1",
+      "sft": "8,000",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1573065014858-76b7d1bd6d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1952&q=80",
+        "https://cdn.pixabay.com/photo/2017/06/13/22/43/interior-2400372_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/08/27/10/16/interior-2685518_1280.jpg",
+        "https://cdn.pixabay.com/photo/2014/08/11/21/31/wall-panel-416041_1280.jpg"
+      ]
+    },
+    {
+      "id": "651a25f53da946100c7b38ab",
+      "img": "https://images.unsplash.com/photo-1560026315-6640b67f281d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Chic Studio in Le Marais",
+      "description": "A chic studio apartment in the trendy Le Marais neighborhood of Paris.",
+      "price": "550,000",
+      "location": "222 Rue de Rivoli, Paris",
+      "cityName": "Paris",
+      "room": "1",
+      "bed": "0",
+      "bath": "1",
+      "sft": "55,00",
+      "imageGallery": [
+        "https://images.unsplash.com/photo-1560026315-6640b67f281d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://cdn.pixabay.com/photo/2018/02/24/17/17/window-3178666_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/08/27/10/16/interior-2685522_1280.jpg",
+        "https://cdn.pixabay.com/photo/2018/07/31/20/08/interior-3575815_1280.jpg"
+      ]
+    },
+    {
+      "id": "651a25f5390943134419a134",
+      "img": "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "title": "Luxury 5BR Mansion",
+      "description": "A luxurious 5-bedroom mansion with a grand garden and pool in Paris.",
+      "price": "5,500,000",
+      "location": "789 Avenue Foch, Paris",
+      "cityName": "Paris",
+      "room": "5",
+      "bed": "5",
+      "bath": "4",
+      "sft": "4,000",
+      "imageGallery": [
+        "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+        "https://cdn.pixabay.com/photo/2013/03/07/15/37/building-91228_1280.jpg",
+        "https://cdn.pixabay.com/photo/2013/09/24/12/08/apartment-185779_1280.jpg",
+        "https://cdn.pixabay.com/photo/2016/10/16/10/29/office-space-1744801_1280.jpg"
+      ]
+    }
+    
+  ]
+  
